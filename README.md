@@ -57,5 +57,5 @@ Me chamo Vinicius Umberto da Silva, tenho 23 anos e nasci em Uberlândia–MG. A
 
 ---
 <p align="center">
-  🌐 Em breve: meu portfólio online com projetos de desenvolvimento e automação.
+  🌐 Em breve: meu portfólio online com projetos de desenvolvimento.
 </p>
