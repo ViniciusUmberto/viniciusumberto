@@ -2,7 +2,8 @@
 
 **Estudante Sistemas de Informação**
 
-Me chamo Vinicius Umberto da Silva, tenho 23 anos e nasci em Uberlândia–MG. Atualmente curso o 7º semestre de Sistemas de Informação na Faculdade Pitágoras, em Uberlândia. Desde pequeno sempre tive contato com tecnologia, e isso fez com que meus olhos se voltassem totalmente para essa área. Sou uma pessoa movida por desafios, e o principal motivo de eu estar nela é a vontade de resolver problemas por meio de software. Hoje, meu objetivo é entrar na área de Desenvolvimento ou QA para mostrar o quanto sou capaz de aprender rápido e solucionar problemas.
+Me chamo Vinicius Umberto da Silva, tenho 23 anos e nasci em Uberlândia–MG. Atualmente curso o 7º semestre de Sistemas de Informação na Faculdade Pitágoras, em Uberlândia. Desde pequeno sempre tive contato com tecnologia, e isso fez com que meus olhos se voltassem totalmente para essa área. Sou uma pessoa movida por desafios, e o principal motivo de eu estar nela é a vontade de resolver problemas por meio de software. Hoje,o meu objetivo é me tornar um Desenvolvedor, pórem topo qualquer desafio que me forme e fortifique minha base para alcançar meu objetivo — seja em front-end, back-end, soluções de automação ou QA — construindo aplicações que solucione problemas de empresas tornando processos mais eficientes.
+
 
 ---
 
